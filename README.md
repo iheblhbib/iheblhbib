@@ -33,3 +33,23 @@
 [![Linkedin: ihebelhabib](https://img.shields.io/badge/-ihebelhabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iheb-el-habib/)](https://www.linkedin.com/in/iheb-el-habib/)
 [![GitHub iheb elhabib](https://img.shields.io/github/followers/iheblhbib?label=follow&style=social)](https://github.com/iheblhbib)
 [![website](https://img.shields.io/badge/PortfolioWebsite-ihebelhabib.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://ihebelhabib.netlify.app/)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code> 
+
+
+<a href="https://github.com/iheblhbib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheblhbib&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iheblhbib">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iheblhbib&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+
