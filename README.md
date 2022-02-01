@@ -19,20 +19,17 @@
 
 <br/>
 <br/>
-<!--
-**iheblhbib/iheblhbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in Software Company
+- 🌱 I’m currently learning MERN
+- 👯 I’m looking to collaborate on VR
+- 🤔 I’m looking for help with VR Documentation
+- 💬 Ask me about PHP or any tech-related stuff.
+- 📫 How to reach me: [Twitter - @ihebelhabib](https://twitter.com/ihebelhabib) , [Facebook - @ihebelhabib](https://facebook.com/ihebelhabib)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours searching new stuff every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![](https://komarev.com/ghpvc/?username=iheblhbib)
+[![Twitter: ihebelhabib](https://img.shields.io/twitter/follow/ihebelhabib?style=social)](https://twitter.com/ihebelhabib)
+[![Linkedin: ihebelhabib](https://img.shields.io/badge/-ihebelhabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iheb-el-habib/)](https://www.linkedin.com/in/iheb-el-habib/)
+[![GitHub iheb elhabib](https://img.shields.io/github/followers/iheblhbib?label=follow&style=social)](https://github.com/iheblhbib)
+[![website](https://img.shields.io/badge/PortfolioWebsite-ihebelhabib.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://ihebelhabib.netlify.app/)
