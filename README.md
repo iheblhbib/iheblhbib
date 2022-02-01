@@ -1,5 +1,5 @@
 ## Hi there, I'm [Iheb El Habib!](https://ihebelhabib.netlify.app) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iheblhbib&label=Views&color=blue&style=plastic" alt="ihebelhabib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iheblhbib&label=Views&color=blueviolet&style=plastic" alt="ihebelhabib" /> </p>
 
 <a href="https://twitter.com/ihebelhabib">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
